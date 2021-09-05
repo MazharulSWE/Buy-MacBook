@@ -1,0 +1,9 @@
+.input:hover {
+    background-color: gray;
+    border-color: indianred;
+    border-radius: 5px;
+  }
+.image img{
+  width: 85%;
+  height: 40%; 
+}
